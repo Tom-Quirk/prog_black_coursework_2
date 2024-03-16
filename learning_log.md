@@ -28,3 +28,27 @@ Entry 1:
 • Next step(s) to achieve your goals:
 
 - Complete the first 3 weeks of the Andrew Ng course whilst taking notes and thinking of specific project ideas.
+
+Entry 2:
+
+• What you have done (to learn your skill and contribute to your project)
+
+- I have now covered weeks 1 - 3 of the coursera Andrew Ng Machine Learning course content. I have watched all of the videos and taken notes.
+
+• What you have learned?
+
+In short, the content covered included:
+
+- Week 2: Multiple linear regression, vectorisation (making code implementation of ML algorithms much shorter and code run faster), gradient descent with multiple linear regression, (including feature scaling, learning rates, feature engineering, polynomial regression etc.)
+
+- Week 3: Logistic regression (which predicts the probability that something is true or false, therefore normally used for classification), decision boundaries, the logistic loss function for gradient descent, the logistic regression gradient descent algorithm, bias and variance, overfitting and the ways of reducing it.
+
+• Any changes to your goals?
+
+- We're still set on an image classification project. I'll complete the first 6 weeks of the Andrew Ng course so that I have a basic understanding of the background mathematics of a CNN image classification algorithm, although I'll obviously use a library to implement the model anyway.
+
+• Next steps:
+
+- Source data for said project
+- Specify a model (with parameters, cost function, gradient descent algorithm etc) and train said model on the data.
+- Undergo an iterative process of evaluating the bias/variance of the model and improving it based off these two factors.
