@@ -52,3 +52,43 @@ In short, the content covered included:
 - Source data for said project
 - Specify a model (with parameters, cost function, gradient descent algorithm etc) and train said model on the data.
 - Undergo an iterative process of evaluating the bias/variance of the model and improving it based off these two factors.
+
+Entry 3:
+
+- Week 4: The Neural Network Model, including:
+
+  - Hidden layers and how every layer inputs a vector of numbers and applies a bunch of logistic regressions to it, then computes another vector of numbers that are passed from layer to layer, culminating in a final layer where you get the prediction of the neural network.
+  - Inference (forward propogation), both conceptually and its code implementation in TensorFlow.
+  - Building a neural network architecture.
+
+- Week 5: Neural Network Training:
+
+  - Training a Neural Network in TensorFlow (code implementation)
+  - The steps of model training:
+    - 1. Defining the model
+    - 2. Specifying the loss and cost functions
+    - 3. Training on data to minimize J(w,b).
+  - Various different activation functions other than Sigmoid that can be used depending on the given data (e.g. use ReLU for housing price prediction because it will never be negative)
+  - The softmax architecture for non-binary input classification (more than two inputs).
+
+- Week 6: Advice for applying an ML model:
+  - How to evaluate a model (for classification and linear regression):
+    - The 70/30 training set/test set split to analyse a model's performance
+    - Alternatively measure the fraction of the test set and training set that the algorithm has misclassified.
+  - What bias and variance are. J(cv) and J(train) give you a rough idea of whether your algorithm has high variance/bias.
+  - Diagnosing bias and variance.
+  - Cross-validation is used to make a good choice for the regularization value lambda
+  - Cross validation tries out a lot of different values of lambda, and picks out a value with low cross-validation error.
+  - Learning curves
+  - The iterative loop of ML development and full cycle of a ML project.
+
+• Any changes to your goals?
+
+- Instead of an unsupervised project, I will look to build a supervised ML model that allows me to put the whole "cycle" of a machine learning project into practice, from defining the project through to collecting data, training, error analysis and iterative improvement.
+
+• Next step(s) to achieve your goals
+
+- Select a project (leaning towards a CNN/binary classification model of dog/cat images).
+- Source data for said project
+- Specify a model (with parameters, cost function, gradient descent algorithm etc) and train said model on the data.
+- Undergo an iterative process of evaluating the bias/variance of the model and improving it based off these two factors.
