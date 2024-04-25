@@ -55,6 +55,8 @@ In short, the content covered included:
 
 Entry 3:
 
+• What you have done (to learn your skill and contribute to your project)?
+
 - Week 4: The Neural Network Model, including:
 
   - Hidden layers and how every layer inputs a vector of numbers and applies a bunch of logistic regressions to it, then computes another vector of numbers that are passed from layer to layer, culminating in a final layer where you get the prediction of the neural network.
@@ -92,3 +94,12 @@ Entry 3:
 - Source data for said project
 - Specify a model (with parameters, cost function, gradient descent algorithm etc) and train said model on the data.
 - Undergo an iterative process of evaluating the bias/variance of the model and improving it based off these two factors.
+
+Entry 4:
+
+• What you have done (to learn your skill and contribute to your project)?
+
+- We selected the Stanford Dogs Dataset as our data. My partner created a data processing pipeline using OpenCSV.
+
+Open image file,
+open labels, convert images to arrays, convert images to tensors, convert labels to tensors (a number for each breed of dog), put in model.
