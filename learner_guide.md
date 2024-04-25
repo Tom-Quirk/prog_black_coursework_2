@@ -1,7 +1,7 @@
 Guide for learners structure
 • Motivation (10%): Why learn it?
 
-- This is a learner's guide on how to build a CNN that accurately classifies dog images.
+- This is a learner's guide on how to implement a CNN that accurately classifies dog images.
 
 - In the Big Data era, Machine Learning has become a way for companies to understand and exploit data. ML is used to enhance decision making, optimising customer retention, revenue generation and cost cutting.
 
@@ -30,21 +30,23 @@ Guide for learners structure
 
   - https://www.youtube.com/@statquest
 
-- Now that you're familiar with python and the basics of a machine learning model, you need to learn TensorFlow.
+- Now that you're familiar with python and the basics of a machine learning model, you need to learn how to implement a model using the TensorFlow library.
 
 - To download TensorFlow, use the terminal commands here: https://www.tensorflow.org/install
 
 - To learn TensorFlow, read the documentation and watch the video tutorials on the TensorFlow website here: https://www.tensorflow.org/tutorials .
 
-Draft:
+- Now pick a dataset (e.g. Stanford Dogs Dataset). You must preprocess the data. To understand more, follow these links:
+  https://www.simplilearn.com/data-preprocessing-in-machine-learning-article  
+  https://towardsdatascience.com/introduction-to-data-preprocessing-in-machine-learning-a9fa83a5dc9d
+  To actually implement preprocessing of data, follow this link:
+  https://www.upgrad.com/blog/data-preprocessing-in-machine-learning/
 
-- Pick a data set (e.g. Stanford Dogs Dataset) and learn to preprocess the data.
-
-- Before
+- Now that you've preprocessed the data, you need to train the model on said data. Use the Resnet CNN model in TensorFlow. To understand what Resnet is and how to implement it in code, read this article: https://medium.com/swlh/resnet-with-tensorflow-transfer-learning-13ff0773cf0c .
 
 • Evaluation (10%): How useful is the skill, compared with the effort of learning it? What similar alternatives are there?
 
-- • Presentation (10%)The presentation mark (10%) will be awarded on the basis of:
+- ML modelling is incredibly versatile in that it can be applied to almost any industry to improve efficiency and drive profits. Although finding a job actually building novel machine learning algorithms usually requires a PhD, it's relatively simple for anyone to import a ready-to-go library on a selection of data they're interested in. I would argue that the utility of premade libraries far outweighs the difficulty of learning how to use them.
 
 Resources:
 https://www.coursera.org/learn/machine-learning/home/week/1
