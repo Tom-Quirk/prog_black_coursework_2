@@ -117,3 +117,5 @@ Entry 4:
 • Next step(s) to achieve your goals
 
 - Use the Zillows Economics dataset to build a house price prediction model with XGBoost based on factors like average income, crime rate, number of hospitals, number of schools, etc.
+
+* Entries 1-3 were written up from late February to last Sunday. The final entry was made last night after completing the project. I realised only recently that the date of a local git commit doesn't appear on github, and pushed stuff up last night.
