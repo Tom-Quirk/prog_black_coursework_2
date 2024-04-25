@@ -34,17 +34,17 @@ Guide for learners structure
 
 - To download TensorFlow, use the terminal commands here: https://www.tensorflow.org/install
 
-- To learn TensorFlow, read the documentation and watch the video tutorials on the TensorFlow website here: https://www.tensorflow.org/tutorials
+- To learn TensorFlow, read the documentation and watch the video tutorials on the TensorFlow website here: https://www.tensorflow.org/tutorials .
+
+Draft:
+
+- Pick a data set (e.g. Stanford Dogs Dataset) and learn to preprocess the data.
 
 - Before
 
 • Evaluation (10%): How useful is the skill, compared with the effort of learning it? What similar alternatives are there?
 
 - • Presentation (10%)The presentation mark (10%) will be awarded on the basis of:
-
-- formatting in (GitHub flavored) Markdown
-- choice of media (images, video)
-- clear writing style appropriate for audience. The guide for learners should have a maximum total word count of 1500 words,as measured by the Microsoft VS Code wordcount plugin.
 
 Resources:
 https://www.coursera.org/learn/machine-learning/home/week/1

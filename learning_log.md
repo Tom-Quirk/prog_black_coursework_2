@@ -99,7 +99,21 @@ Entry 4:
 
 • What you have done (to learn your skill and contribute to your project)?
 
-- We selected the Stanford Dogs Dataset as our data. My partner created a data processing pipeline using OpenCSV.
+- I watched the following two videos to better understand the implementation of ML in TensorFlow:
+  - https://www.youtube.com/watch?v=KNAWp2S3w94&t=4s
+  - https://www.youtube.com/watch?v=bemDFpNooA8&t=212s
+- I also heavily relied on the TensorFlow website guide:
+  - https://www.tensorflow.org/guide
+- We selected the Stanford Dogs Dataset as our data, whereby each image in the dataset already had a label for whichever breed of dog it was. My partner created a data preprocessing pipeline using OpenCSV, which automatically drew a border around the dog within each image and extracted it for use in the model.
+- In summary, the general steps of the code I wrote were to open the image file, open the labels, convert the images to arrays, convert the images to tensors, convert the labels to tensors (a number for each breed of dog) then put the data into the model.
+- Running the model required a GPU since we couldn't get it to work on NCC. After running the training file, we achieved 84% accuracy on the data.
+- Although completing the Andrew NG ML course didn't contribute to the success of the model (since we used a library), it helped to better understand what was going on under the hood.
 
-Open image file,
-open labels, convert images to arrays, convert images to tensors, convert labels to tensors (a number for each breed of dog), put in model.
+• Any changes to your goals?
+
+- We ultimately opted for a more hands-off approach in the model we used therefore there was little error analysis/iterative improvement to be done, however we completed every other goal set in previous weeks.
+- My next goal is to complete another ML project and build up my resume.
+
+• Next step(s) to achieve your goals
+
+- Use the Zillows Economics dataset to build a house price prediction model with XGBoost based on factors like average income, crime rate, number of hospitals, number of schools, etc.
