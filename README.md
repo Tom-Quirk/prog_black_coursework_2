@@ -1,6 +1,5 @@
-- I completed entries 1-3 from late February (when I started the Andrew Ng course) to last Sunday night. 
-- The final project was done over the last few days and the fourth entry was completed last night.
-- Although I saved changes locally, I didn't realise that the date of commit displayed on the remote repo would be whenever I pushed it up. Hence the terrible spread commits. 
-
+- Dog Detection Software - 1st year Programming Black Coursework. Coursework grade achieved: 73% (1st Class)
+- A project including object detection and classification for the Stanford Dogs Dataset
+- Data can be found at https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset/
 - Link to learner's guide/learning log repository: https://github.com/Tom-Quirk/prog_black_coursework_2 
 - Link to image classification project: https://github.com/sam7676/dog_detection
